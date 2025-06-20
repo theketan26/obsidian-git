@@ -11,3 +11,7 @@
 per person
 one way
 # Stay
+## Villa/Cottage
++-7000 / 6 person / night
++-21000 / 6 person / 3 day
+## Hotel
