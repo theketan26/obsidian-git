@@ -16,3 +16,8 @@ one way
 +-21000 / 6 person / 3 day
 ## Hotel
 Less then villa
+# Travel
+## Car
+1000 - Wagonr/i10 / day
+2500 - Thar/XUV / day
+500-100 - Bike/Scooter / day
