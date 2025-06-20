@@ -34,3 +34,11 @@ Less then villa
 30000 / 6 person
 5000 / person
 
+
+
+Train - 2000
+Stay Villa - 3500
+Local travel - 2666 - 2 day car / 1 day bike
+Daru - 5000
+Activity - 5000
+Total - 18166
