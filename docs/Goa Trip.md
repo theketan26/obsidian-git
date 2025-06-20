@@ -30,4 +30,7 @@ Less then villa
 36000 / 6 person / 3 day
 6000 / person / 3 day
 2000 / person / day
+# Activities
+30000 / 6 person
+5000 / person
 
