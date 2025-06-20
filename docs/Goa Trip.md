@@ -17,7 +17,14 @@ one way
 ## Hotel
 Less then villa
 # Travel
-## Car
-1000 - Wagonr/i10 / day
+8000 - Total
+2666 - Total / person
+5000 - 1 Car / 2 days
+3000 - 3 Bike / day
+
+1000-1500 - Wagonr/i10 / day
 2500 - Thar/XUV / day
-500-100 - Bike/Scooter / day
+500-1000 - Bike/Scooter / day
+
+
+
