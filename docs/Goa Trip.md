@@ -12,8 +12,10 @@ per person
 one way
 # Stay
 ## Villa/Cottage
-+-7000 / 6 person / night
-+-21000 / 6 person / 3 day
+21000 / 6 person / 3 day
+3500 / person / 3 day
+7000 / 6 person / day
+1166 / person / day
 ## Hotel
 Less then villa
 # Travel
@@ -21,10 +23,11 @@ Less then villa
 2666 - Total / person
 5000 - 1 Car / 2 days
 3000 - 3 Bike / day
-
-1000-1500 - Wagonr/i10 / day
-2500 - Thar/XUV / day
-500-1000 - Bike/Scooter / day
-
-
+1000-1500 - Wagonr|i10 / day
+2500 - Thar|XUV / day
+500-1000 - Bike|Scooter / day
+# Daru
+36000 / 6 person / 3 day
+6000 / person / 3 day
+2000 / person / day
 
