@@ -5,3 +5,6 @@ Tool to analyze cricket data.
 3. Analyze data to find
 	1. Data 
 	2. Data on every venue
+# Processes
+1. Extract teams
+2. 
