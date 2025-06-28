@@ -5,4 +5,4 @@
 	class ProcessConfig(AppConfig):
 	    default_auto_field = 'django.db.models.BigAutoField'
 	    name = 'process'```
-4. Create name 
+4. Create name Modal in
